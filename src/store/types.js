@@ -1,0 +1,3 @@
+export const HANDLE_INPUT_CHANGE = 'HANDLE_INPUT_CHANGE';
+export const SUBMIT_FORM = 'SUBMIT_FORM';
+export const SUBMITTING = 'SUBMITTING';
